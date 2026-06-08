@@ -1,0 +1,5 @@
+delivery_status,total_orders,bad_reviews,bad_review_pct
+Late,2770,1121,40.46931407942238
+On Time,89936,8282,9.208770681373421
+Super Late,3764,2859,75.95642933049946
+Unknown,8,1,12.5
