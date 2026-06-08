@@ -27,6 +27,7 @@ https://logistics-audit.streamlit.app/
 ### Presentation
 
 **Presentation Slides (PDF/PPT):**
+https://docs.google.com/presentation/d/1rT7cjT5X0r7HL92RcLX5SU9vMgYk4cju/edit?usp=sharing&ouid=107798008368211923318&rtpof=true&sd=true
 
 
 
@@ -197,10 +198,4 @@ last-mile-logistics-audit/
 * Jupyter Notebook
 * GitHub
 
-## Deliverables
 
-* Data Cleaning and Analysis Notebook
-* Streamlit Dashboard
-* Insight Presentation
-* Technical Documentation
-* Public GitHub Repository
