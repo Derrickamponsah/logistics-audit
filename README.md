@@ -17,12 +17,12 @@ These findings provide Veridi Logistics with a data-driven foundation for improv
 ### Notebook
 
 **Jupyter Notebook:**
-[Insert Notebook Link Here]
+https://github.com/Derrickamponsah/logistics-audit/blob/main/notebooks/delivery_audit.ipynb
 
 ### Dashboard
 
 **Streamlit Dashboard:**
-https://github.com/Derrickamponsah/logistics-audit/blob/main/notebooks/delivery_audit.ipynb
+https://logistics-audit.streamlit.app/
 
 ### Presentation
 
